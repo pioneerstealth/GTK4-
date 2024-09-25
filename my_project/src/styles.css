@@ -1,0 +1,11 @@
+.left-panel, .right-panel { background-color: #f0f0f0; padding: 10px; }
+.main-panel { background-color: #ffffff; padding: 10px; }
+.top-bar { background-color: #e0e0e0; padding: 10px; }
+.bottom-area { background-color: #f5f5f5; padding: 10px; }
+.panel-title { font-weight: bold; font-size: 16px; margin-bottom: 10px; }
+.coordinate-label { font-family: monospace; }
+.action-button { background-color: #4CAF50; color: white; padding: 5px 10px; }
+.direction-button { padding: 5px 10px; }
+.camera-feed { background-color: #000000; }
+.recognition-label { font-style: italic; }
+.upload-button { background-color: #2196F3; color: white; padding: 5px 10px; }
